@@ -14,7 +14,7 @@ Colorado Board of Elections has given the following tasks to complete the electi
 - Software: Python 3.7.6, Visual Studio Code, version 1.72.2
 
 ## Results:
-The results of this audit are shown in the following text file, which can be found in the resources folder in the challenge folder.
+The results of this audit are shown in the following text file, which can be found in the resources folder in the challenge folder:
 
 [election_analysis.txt](Challenge/analysis/election_analysis.txt)
 
