@@ -14,7 +14,8 @@ Colorado Board of Elections has given the following tasks to complete the electi
 - Software: Python 3.7.6, Visual Studio Code, version 1.72.2
 
 ## Results:
-All results are shown in the following text file, which can be found in the resources folder in the challenge folder.
+The results of this audit are shown in the following text file, which can be found in the resources folder in the challenge folder.
+
 [election_analysis](Challenge/analysis/election_analysis.txt)
 
 - 369,711 votes were cast total in this election.
@@ -34,7 +35,8 @@ All results are shown in the following text file, which can be found in the reso
     - 11,606 votes,
     - 3.1% of the popular vote.
 
-- Diana DeGette won the election. She recieved 272,892 votes, which equates to a decisive 73.8% of the popular vote. 
+- Diana DeGette won the election! 
+    - She recieved 272,892 votes, which equates to a decisive 73.8% of the popular vote. 
 
 ## Summary:
 Overall, the script worked well and looks useful for future elections. The core of the script, which counts votes, can be used in any election of any size. The other parts, such as the parts that count and evaluate county turnout, or calculates popular vote percentage, can be edited and adjusted for whatever kind of election. For example, to upscale this to a national level, we might add functionality to count the number of votes each candidate recieved in each state in addition to or instead of tracking the counties, and we might change the popular vote percentage calculation to track electoral college vote percentage. This could be downscaled to local level elections by removing the county counting or by changing it to track districts in a city. 
