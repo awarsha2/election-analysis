@@ -10,7 +10,7 @@ Colorado Board of Elections has given the following tasks to complete the electi
 5. Determine the winner of the election based on popular vote.
 
 ## Resources:
-- Data Cource: [election_results.csv](resources/election_results.csv)
+- Data Source: [election_results.csv](resources/election_results.csv)
 - Software: Python 3.7.6, Visual Studio Code, version 1.72.2
 
 ## Results:
